@@ -1,0 +1,10 @@
+name: chip_seq
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - pycirclize=1.9.1
+  - ipykernel=6.29.5
+  - nextflow=24.04.2
+  - nf-test=0.8.4
